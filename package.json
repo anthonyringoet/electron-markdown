@@ -1,8 +1,10 @@
 {
   "name": "markdown-electron",
+  "version": "1.0.0",
   "scripts": {
     "test": "standard",
-    "start": "electron ."
+    "start": "electron .",
+    "package": "electron-packager . 'Markdown Electron'"
   },
   "main": "lib/main.js",
   "devDependencies": {
