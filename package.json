@@ -11,5 +11,9 @@
     "electron-packager": "^8.1.0",
     "spectron": "^3.4.0",
     "standard": "^8.5.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "marked": "^0.3.6"
   }
 }
