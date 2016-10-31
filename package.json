@@ -13,6 +13,7 @@
     "standard": "^8.5.0"
   },
   "dependencies": {
+    "drag-drop": "^2.12.1",
     "jquery": "^3.1.1",
     "marked": "^0.3.6"
   }
